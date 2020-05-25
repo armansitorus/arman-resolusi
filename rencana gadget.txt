@@ -2,6 +2,9 @@ RENCANA GADGET UNTUK KEPERLUAN PROGRAM:
 - Laptop
   * Spesifikasi i7-9750h
   * SSD 512 (double channel)
+  * NVIDIA GEFORCE GTX 2050 4 GB
 - Handphone
+  * Internal 128/512
+  * RAM 6/8
 - Headphone
 - Set PC
