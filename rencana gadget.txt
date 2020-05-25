@@ -3,5 +3,7 @@ RENCANA GADGET UNTUK KEPERLUAN PROGRAM:
   * Spesifikasi i7-9750h
   * SSD 512 (double channel)
 - Handphone
+  * Camera 108mp
+  * Layar Amoled
 - Headphone
 - Set PC
