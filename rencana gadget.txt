@@ -4,6 +4,8 @@ RENCANA GADGET UNTUK KEPERLUAN PROGRAM:
   * SSD 512 (double channel)
   * NVIDIA GEFORCE GTX 2050 4 GB
 - Handphone
+  * Camera 108mp
+  * Layar Amoled
   * Internal 128/512
   * RAM 6/8
 - Headphone
